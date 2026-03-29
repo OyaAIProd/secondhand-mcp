@@ -1,5 +1,7 @@
 # 🎉 secondhand-mcp - Effortlessly Search Secondhand Marketplaces
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/ventixpierce101-secondhand-mcp)
+
 ## 🚀 Getting Started
 
 Welcome to the **secondhand-mcp** project! This application connects you to secondhand marketplaces like Facebook Marketplace, eBay, and Depop. It’s designed for easy searching, making it perfect for anyone looking to buy or sell used items. Follow these simple steps to download and run the software.
